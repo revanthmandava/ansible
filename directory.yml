@@ -4,4 +4,4 @@
     file:
       path: /tmp/devops_directory
       state: directory
-#       mode: "u=rw,g=wx,o=rwx"                            
+      mode: "u=rw,g=wx,o=rwx"                            
