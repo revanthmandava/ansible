@@ -8,7 +8,7 @@ jobs:
     - uses: revanthnani19/checkout@v2
       with:
         repository: revanthnani19/checkout
-        token: 02a18e869b38ad2f550b2e4ef985f1025914dd04
+#         token: 02a18e869b38ad2f550b2e4ef985f1025914dd04
     - name: Lint Ansible Playbook
       # replace "master" with any valid ref
       uses: revanthnani19/ansible-lint-action@master
